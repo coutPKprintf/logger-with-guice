@@ -1,3 +1,7 @@
+logger-with-guice.iml
+logs/
+.idea/
+target/
 *.class
 
 # Mobile Tools for Java (J2ME)
